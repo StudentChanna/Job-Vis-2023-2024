@@ -1,3 +1,3 @@
 # Report
-<br/>• Uplaod first draft of Report.
-<br/>• Uplaod final of Report.
+<br/>• Upload first draft of Report.
+<br/>• Upload final of Report.
