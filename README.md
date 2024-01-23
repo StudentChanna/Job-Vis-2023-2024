@@ -1,4 +1,4 @@
-# Trending Job Visualization from 2023 to 2024
+# Job Trending Visualization from 2023 to 2024
 Cambodia Job Trending and Insight from 2021 to 2023
 ## Internship Subject
 <br>The purpose of job visualization can be multifaceted and cater to both individuals and organizations.
