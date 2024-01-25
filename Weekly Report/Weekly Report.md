@@ -20,15 +20,14 @@ Issues
 
 > You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
 
-- Spend too much time to loading.
+- Spend too much time to loading due to large data.
 
 Plans for next week
 --------------------
 
 > List next tasks of Project:
 
-- overview dataset.
-- data preprocessing.
+
 
 -------------------
 
