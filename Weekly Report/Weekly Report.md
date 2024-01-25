@@ -48,7 +48,7 @@ Progress
     - Visualization principle
     - Data interpretation
 - Prepare Note and collect research paper that relevant project.
-- Creat github and organize folder.
+- Create github and organize folder.
 
 Issues
 ------
