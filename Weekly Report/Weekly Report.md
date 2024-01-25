@@ -14,11 +14,12 @@ Progress
     - handle missing Data and duplicating data.
     - Delete columns
     - Detect english word
-    
+
 Issues
-------
+-------
 
 > You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
+
 - Spend too much time to loading.
 
 Plans for next week
@@ -54,8 +55,7 @@ Issues
 ------
 
 > You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
-- 
-- 
+- None
 
 Plans for next week
 -------------------
