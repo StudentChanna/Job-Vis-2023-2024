@@ -14,6 +14,7 @@ Progress
     - handle missing Data and duplicating data.
     - Delete columns
     - Detect english word
+    
 Issues
 ------
 
