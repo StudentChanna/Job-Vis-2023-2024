@@ -1,3 +1,39 @@
+Weekly Report (Week 3)
+=============
+
+**Submitted by** Channa Mak
+
+**Period** 01/29/2024 → 02/02/2024
+
+Progress
+-------
+
+> list down progress as bullet point
+- Focus on Data Preprocessing:
+    - Data cleaning
+    - handle missing Data and duplicating data.
+    - Delete columns
+    - Detect english word
+- Focus on Data transformation:
+    - Split keywords into new rows for the language and Age columns.
+    - Remove unnecessary words for the Company Name columns.
+    - Define and Remove white space.
+    - Convert data type for Hiring and Year of Experience columns.
+
+Issues
+-------
+
+> You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
+
+- Define specific keywords for the position column.
+
+Plans for next week
+--------------------
+
+> List next tasks of Project:
+
+
+
 Weekly Report (Week 2)
 =============
 
