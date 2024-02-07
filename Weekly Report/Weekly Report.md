@@ -31,6 +31,7 @@ Plans for next week
 --------------------
 
 > List next tasks of Project:
+- Data cleaning on position columns
 
 
 
@@ -62,6 +63,8 @@ Plans for next week
 --------------------
 
 > List next tasks of Project:
+- Data Preprocessing
+- Data transformation
 
 
 
