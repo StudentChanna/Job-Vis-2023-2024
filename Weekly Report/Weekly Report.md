@@ -44,6 +44,7 @@ Progress
     - Gender diversity
     - Age Insights
     - Hiring trending analysis
+
 Issues
 -------
 
