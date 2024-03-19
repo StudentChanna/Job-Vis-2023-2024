@@ -1,3 +1,34 @@
+Weekly Report (Week 9)
+=============
+
+**Submitted by** Channa Mak
+
+**Period** 11/03/2024 → 15/03/2024
+
+Progress
+-------
+
+> list down progress as bullet point
+- Focus on Data visualization:
+    - change some graphs
+- Start Writing Report
+
+Issues
+-------
+
+> You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
+
+- None
+
+Plans for next week
+--------------------
+
+> List next tasks of Project:
+- Finish Data visualization
+- Finish Report
+
+
+
 Weekly Report (Week 8)
 =============
 
