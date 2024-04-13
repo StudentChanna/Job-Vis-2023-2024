@@ -1,3 +1,102 @@
+Weekly Report (Week 12)
+=============
+
+**Submitted by** Channa Mak
+
+**Period** 01/04/2024 → 05/04/2024
+
+Progress
+-------
+
+> list down progress as bullet point
+- Update and Finish Report
+- Update and Finish Slide report
+
+Issues
+-------
+
+> You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
+
+- None
+
+Plans for next week
+--------------------
+
+> List next tasks of Project:
+
+
+
+
+Weekly Report (Week 11)
+=============
+
+**Submitted by** Channa Mak
+
+**Period** 25/03/2024 → 29/03/2024
+
+Progress
+-------
+
+> list down progress as bullet point
+- Update Report
+- Update Slide report
+
+Issues
+-------
+
+> You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
+
+- None
+
+Plans for next week
+--------------------
+
+> List next tasks of Project:
+- Finish Slide report
+- Finish Report
+
+
+
+Weekly Report (Week 10)
+=============
+
+**Submitted by** Channa Mak
+
+**Period** 18/03/2024 → 22/03/2024
+
+Progress
+-------
+
+> list down progress as bullet point
+- Put industry point in key insight
+- Add appendix
+- Change to pie chart
+- Screen short or draw structure of data preprocessing
+- Change graph age
+- Add more graph
+    - Average salary
+    - which Experience-level with highest average salary
+    - which industry paid highest salary for their hiring
+    - What difference salary by location
+    - Which job_category paid highest salary for their hiring
+    - Gender gate
+
+Issues
+-------
+
+> You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
+
+- None
+
+Plans for next week
+--------------------
+
+> List next tasks of Project:
+- Add more graph in Data visualization
+- Finish Report
+
+
+
 Weekly Report (Week 9)
 =============
 
